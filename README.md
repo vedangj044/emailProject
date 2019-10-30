@@ -1,4 +1,4 @@
-# emailProject
+# EmailProject
 INVENTO
 
 This project is website updating system using EMAIL.
